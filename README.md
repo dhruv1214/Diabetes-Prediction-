@@ -15,7 +15,7 @@ Diabetes data prediction using pyspark
 
 # Dependencies required
 
-pyspark : pip install pyspark
-Java jdk
+- pyspark : pip install pyspark
+- Java jdk
 
 
