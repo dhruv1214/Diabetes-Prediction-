@@ -17,6 +17,6 @@ Diabetes data prediction using pyspark
 
 - pyspark : pip install pyspark
 - Java jdk
-- & Dhruv Desai;
+- &copy; Dhruv Desai
 
 
